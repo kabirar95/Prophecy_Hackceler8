@@ -1,0 +1,268 @@
+{
+  "risk_profile": "low",
+  "cash": 0.02,
+  "positions": {
+    "VOO": 19.0801,
+    "MSFT": 6.1846,
+    "AAPL": 14.6005,
+    "AMZN": 9.8293,
+    "TSLA": 10.8047,
+    "JNJ": 6.4343,
+    "BND": 24.1184
+  },
+  "last_run": "2025-08-22",
+  "history": [
+    {
+      "ts": 1755767760.471239,
+      "ticker": "VOO",
+      "side": "buy",
+      "qty": 0.6819,
+      "price": 586.5800170898438,
+      "dollars": -399.99,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755767760.471239,
+      "ticker": "MSFT",
+      "side": "buy",
+      "qty": 0.3955,
+      "price": 505.7200012207031,
+      "dollars": -200.01,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755767760.471239,
+      "ticker": "AAPL",
+      "side": "buy",
+      "qty": 0.6637,
+      "price": 226.00999450683594,
+      "dollars": -150.0,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755767760.471239,
+      "ticker": "AMZN",
+      "side": "buy",
+      "qty": 0.4468,
+      "price": 223.80999755859375,
+      "dollars": -100.0,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755770660.036261,
+      "ticker": "VOO",
+      "side": "buy",
+      "qty": 0.6819,
+      "price": 586.5800170898438,
+      "dollars": -399.99,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755770660.036261,
+      "ticker": "MSFT",
+      "side": "buy",
+      "qty": 0.3955,
+      "price": 505.7200012207031,
+      "dollars": -200.01,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755770660.036261,
+      "ticker": "AAPL",
+      "side": "buy",
+      "qty": 0.6637,
+      "price": 226.00999450683594,
+      "dollars": -150.0,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755770660.036261,
+      "ticker": "AMZN",
+      "side": "buy",
+      "qty": 0.4468,
+      "price": 223.80999755859375,
+      "dollars": -100.0,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755772678.338869,
+      "ticker": "VOO",
+      "side": "buy",
+      "qty": 6.8192,
+      "price": 586.5800170898438,
+      "dollars": -4000.01,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755772678.338869,
+      "ticker": "MSFT",
+      "side": "buy",
+      "qty": 3.9548,
+      "price": 505.7200012207031,
+      "dollars": -2000.02,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755772678.338869,
+      "ticker": "AAPL",
+      "side": "buy",
+      "qty": 6.6369,
+      "price": 226.00999450683594,
+      "dollars": -1500.01,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755772678.338869,
+      "ticker": "AMZN",
+      "side": "buy",
+      "qty": 4.4681,
+      "price": 223.80999755859375,
+      "dollars": -1000.01,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755779519.933375,
+      "ticker": "TSLA",
+      "side": "buy",
+      "qty": 10.8047,
+      "price": 323.8999938964844,
+      "dollars": -3499.64,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755779519.933375,
+      "ticker": "AAPL",
+      "side": "buy",
+      "qty": 6.6362,
+      "price": 226.00999450683594,
+      "dollars": -1499.85,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755779519.933375,
+      "ticker": "AMZN",
+      "side": "buy",
+      "qty": 4.4676,
+      "price": 223.80999755859375,
+      "dollars": -999.89,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755797371.479361,
+      "ticker": "VOO",
+      "side": "buy",
+      "qty": 10.2978,
+      "price": 582.6500244140625,
+      "dollars": -6000.01,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755797371.479361,
+      "ticker": "MSFT",
+      "side": "buy",
+      "qty": 2.9764,
+      "price": 503.9649963378906,
+      "dollars": -1500.0,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755797371.479361,
+      "ticker": "JNJ",
+      "side": "buy",
+      "qty": 5.5673,
+      "price": 179.6199951171875,
+      "dollars": -1000.0,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755799583.422511,
+      "ticker": "VOO",
+      "side": "buy",
+      "qty": 1.5398,
+      "price": 584.5050048828125,
+      "dollars": -900.02,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755799583.422511,
+      "ticker": "MSFT",
+      "side": "buy",
+      "qty": 0.4452,
+      "price": 505.44000244140625,
+      "dollars": -225.02,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755799583.422511,
+      "ticker": "JNJ",
+      "side": "buy",
+      "qty": 0.8348,
+      "price": 179.67999267578125,
+      "dollars": -150.0,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755801371.6168346,
+      "ticker": "VOO",
+      "side": "sell",
+      "qty": 1,
+      "price": 584.25,
+      "dollars": "VOO",
+      "note": "rebalance trim"
+    },
+    {
+      "ts": 1755801371.6168346,
+      "ticker": "MSFT",
+      "side": "sell",
+      "qty": 2,
+      "price": 504.8999938964844,
+      "dollars": "MSFT",
+      "note": "rebalance trim"
+    },
+    {
+      "ts": 1755801371.6168346,
+      "ticker": "BND",
+      "side": "buy",
+      "qty": 24,
+      "price": 73.37779998779297,
+      "dollars": "BND",
+      "note": "rebalance add"
+    },
+    {
+      "ts": 1755801377.656266,
+      "ticker": "VOO",
+      "side": "buy",
+      "qty": 0.0595,
+      "price": 584.1799926757812,
+      "dollars": -34.76,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755801377.656266,
+      "ticker": "MSFT",
+      "side": "buy",
+      "qty": 0.0172,
+      "price": 504.8999938964844,
+      "dollars": -8.68,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755801377.656266,
+      "ticker": "JNJ",
+      "side": "buy",
+      "qty": 0.0322,
+      "price": 179.64120483398438,
+      "dollars": -5.78,
+      "note": "initial allocation (fractional)"
+    },
+    {
+      "ts": 1755801377.656266,
+      "ticker": "BND",
+      "side": "buy",
+      "qty": 0.1184,
+      "price": 73.37560272216797,
+      "dollars": -8.69,
+      "note": "initial allocation (fractional)"
+    }
+  ]
+}
